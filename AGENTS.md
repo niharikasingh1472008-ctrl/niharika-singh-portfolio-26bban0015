@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Keep portfolio sections as separate TanStack leaf routes, with shared navigation, footer, and motion primitives in `src/components` so content stays easy to extend.

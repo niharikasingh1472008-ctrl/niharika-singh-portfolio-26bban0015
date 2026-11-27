@@ -1,0 +1,3 @@
+- [ ] Complete the responsive personal portfolio with six sections, project media, navigation, and footer.
+- [ ] Embed the supplied Botpress webchat scripts across the website.
+- [ ] Verify routes, media, links, mobile navigation, accessibility, metadata, and preview build.
